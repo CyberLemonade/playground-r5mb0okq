@@ -1,6 +1,5 @@
 # Introduction
 Bulls and Cows is an old code-breaking mind or paper and pencil game for two or more players, predating the commercially marketed board game Mastermind.
-
 # How to Play
 Bulls and Cows is a 2 player game. One player thinks of a number, while the other player tries to guess it. 
 - The number to be guessed must be a 4 digit number, using only digits from 1 - 9, each digit atmost once. e.g. 1234 is valid, 0123 is not valid, 9877 is not valid, 9876 is valid.
