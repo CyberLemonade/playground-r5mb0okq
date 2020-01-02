@@ -6,7 +6,7 @@ Bulls and Cows is a 2 player game. One player thinks of a number, while the othe
 - For every guess that the player makes, he gets 2 values - the number of bulls and the number of cows. 1 bull means the guess contains and the target number have 1 digit in common, and in the correct position. 1 cow means the guess and the target have 1 digit in common, but not in correct position. e.g. Let the target be 1234. Guessing 4321 will give 0 bulls and 4 cows. 3241 will give 1 bull and 3 cows. 4 bulls means you have won the game!
 - The player gets 7 chances to correctly guess the entire number.
 
-P.S. If you still have doubts about the rules, check it over here: https://en.wikipedia.org/wiki/Bulls_and_Cows
+P.S. If you still have doubts about the rules, check it over here: [Rules](https://en.wikipedia.org/wiki/Bulls_and_Cows)
 
 # Play it yourself
 Try the game vs computer. Copy the following code to a local or online editor and run it.
