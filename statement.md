@@ -117,3 +117,7 @@ The algorithm used is a simple brute force which runs every guess against all po
 # Runnable
 
 @[Play Cows and Bulls]({"stubs": ["Play.java"], "command": "javac Play.java && java Play"})
+
+# Apology
+
+Unfortunately I was unable to enable interactive mode. Anyone in the community is welcome to try. Thank you.
