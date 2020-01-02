@@ -114,10 +114,6 @@ class Main {
 
 The algorithm used is a simple brute force which runs every guess against all possible target numbers, and guesses a random number from all possible guesses. Now try and solve this wonderful problem suggested by @player_one: [Bulls and Cows](https://www.codingame.com/training/expert/bulls-and-cows)
 
-# Runnable
-
-@[Play Cows and Bulls]({"stubs": ["Play.java"], "command": "javac Play.java && java Play"})
-
 # Apology
 
 Unfortunately I was unable to enable interactive mode. Anyone in the community is welcome to try. Thank you.
