@@ -116,4 +116,4 @@ The algorithm used is a simple brute force which runs every guess against all po
 
 # Runnable
 
-@[Play Cows and Bulls]({"stubs": ["https://github.com/CyberLemonade/playground-r5mb0okq/blob/master/Play.java"], "command": "javac Play.java && java Play"})
+@[Play Cows and Bulls]({"stubs": ["Play.java"], "command": "javac Play.java && java Play"})
