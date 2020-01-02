@@ -61,7 +61,7 @@ class Main {
 
 # Solving Bulls and Cows
 Think of a number, and give correct feedback while the computer tries to solve it. Copy the following code to a local or online editor and run it.
-```java runnable
+```
 import java.util.*;
 class Main {
     static ArrayList<String> possib = new ArrayList<String>();
