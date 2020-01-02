@@ -10,13 +10,13 @@ Bulls and Cows is a 2 player game. One player thinks of a number, while the othe
 P.S. If you still have doubts about the rules, check it over here: https://en.wikipedia.org/wiki/Bulls_and_Cows
 
 #Play it yourself
-
+Try the game vs computer.
 ```java runnable
 
 ```
 
 #Solving Bulls and Cows
-
+Think of a number, and give correct feedback while the computer solves.
 ```java runnable
 import java.util.*;
 class Main {
