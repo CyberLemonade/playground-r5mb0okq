@@ -11,7 +11,7 @@ P.S. If you still have doubts about the rules, check it over here: https://en.wi
 
 # Play it yourself
 Try the game vs computer. Copy the following code to a local or online editor and run it.
-```java runnable
+```
 import java.util.*;
 class Main {
     public static void main(String args[]) {
