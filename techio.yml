@@ -2,6 +2,3 @@ title: Bulls and Cows
 plan:
 - title: Java Snippet
   statement: statement.md
-projects:
-  BnC:
-    buildCommand: javac Play.java && java Play
