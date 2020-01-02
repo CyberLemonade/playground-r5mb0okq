@@ -60,7 +60,7 @@ class Main {
 ```
 
 # Solving Bulls and Cows
-Think of a number, and give correct feedback while the computer solves.
+Think of a number, and give correct feedback while the computer tries to solve it.
 ```java runnable
 import java.util.*;
 class Main {
